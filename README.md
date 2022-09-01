@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SchrodingersCpp
-- 👀 I’m interested in C++, VBA, Python, English, German, money, math, engineering, automation
+- 👀 I’m interested in C++, VBA, Python, Blender, English, money, math, engineering, automation
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ... (TODO)
 - 📫 You can reach me at ...
